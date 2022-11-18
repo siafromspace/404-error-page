@@ -5,7 +5,7 @@ const ErrorPage = () => {
         <main className="error_main">
             <section className="error_main-one">
                 <div>
-                    <p className="error_text-one">OOps!</p>
+                    <p className="error_text-one">OOOps!</p>
                     <p className="error_text-two">Page not found</p>
                     <p className="error_text-three">This page doesn't exist, we suggest you go back to home.</p>
                 </div>
